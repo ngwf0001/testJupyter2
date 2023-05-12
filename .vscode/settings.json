@@ -1,0 +1,11 @@
+{
+    "cSpell.language": "en,lorem,en-GB,en-US",
+    "cSpell.enableFiletypes": [
+        "csv",
+        "csv (whitespace)",
+        "django-html",
+        "kivy",
+        "pyscript",
+        "sql"
+    ]
+}
